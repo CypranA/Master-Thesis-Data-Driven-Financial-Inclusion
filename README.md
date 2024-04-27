@@ -1,5 +1,6 @@
 # University Name
 CBS International Business School
+
 <img src="https://github.com/CypranA/Master-Thesis-Statistical-Analysis/blob/main/cbs_logo.png" alt="CBS Logo" width="200"/>
 
 
