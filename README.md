@@ -1603,7 +1603,6 @@ predicted_values_model2
 
 # 7. Phase 6: Conclusion (Act)
 
-```python
 This study aimed to investigate the impact of big data on financial inclusion in Nigeria, with a broader scope encompassing other developing countries in Africa due to data limitations. The research utilized a quantitative approach, employing cross-sectional data analysis for the year 2021. Two models were developed: Model I focused on big data sources, and Model II examined economic data performance.
 
 The findings from the study revealed significant relationships between various big data variables and financial inclusion. Specifically, mobile utility payment, digital payments, mobile phone ownership, data sources, and data infrastructure demonstrated a positive impact on financial inclusion. Conversely, internet access, source data capacity, and data services showed a negative impact based on regression models. The Pearson correlation test indicated a positive relationship between all tested variables and financial inclusion, with some variables exhibiting stronger correlations.
@@ -1611,4 +1610,4 @@ The findings from the study revealed significant relationships between various b
 The study successfully achieved its objectives, providing empirical evidence that big data and quality economic data can significantly enhance financial inclusion. The acceptance of 10 out of 13 hypotheses further supports the notion that leveraging big data analytics and improving data infrastructure can foster financial access in Nigeria and similar developing economies. Despite the limitations, such as reliance on secondary data and the inability to conduct time series analysis, the study offers valuable insights and recommendations. Financial institutions are encouraged to integrate data analytics into their business models, while governments should prioritize the collection and accessibility of relevant economic data.
 
 In conclusion, this research contributes to the understanding of how big data can be harnessed to improve financial inclusion. It serves as a foundation for future studies, emphasizing the need for comprehensive data collection and the application of advanced analytical techniques to address financial exclusion in developing economies.
-```
+
